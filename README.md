@@ -5,6 +5,8 @@ Analysis of Boston city based bike sharing system using SQLite
 
 ---Our dataset has two tables - trips and stations tables
 
+![](https://github.com/akankshabakshi/Hubway-SQL-Analysis/blob/master/hubway-2.png)
+
 # Our Analysis
 Here are some questions that we'll try to answer over the course of this post: 
 1. What was the duration of the longest trip?
@@ -12,4 +14,6 @@ Here are some questions that we'll try to answer over the course of this post:
 3. What was the average trip duration?
 4. Do registered or casual users take longer trips? 
 5. What is the average duration of trips by users over the age of 30? 
+
+
 
