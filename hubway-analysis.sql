@@ -34,6 +34,12 @@ select count(distinct id) from trips
 where sub_type = 'Registered';
 ---1105192
 
+-----check if one person is driving one bike only or more than that - if the count>1 then driving multiple bikes
+select id, group_concat(distinct bike_number), count(distinct bike_number) as count from trips
+group by bike_number
+
+
+
 ------3.What was the average trip duration?
 select avg(duration) as "Average Duration" from trips;
 
