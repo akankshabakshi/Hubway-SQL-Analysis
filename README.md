@@ -18,10 +18,10 @@ Here are some questions that we'll try to answer over the course of this post:
 
 # Next Steps
 
-How many trips incurred additional fees (lasted longer than 30 minutes)?
-Which bike was used for the longest total time?
-Did registered or casual users take more round trips?
-Which municipality had the longest average duration?
+1. How many trips incurred additional fees (lasted longer than 30 minutes)?
+2. Which bike was used for the longest total time?
+3. Did registered or casual users take more round trips?
+4. Which municipality had the longest average duration?
 
 
 
